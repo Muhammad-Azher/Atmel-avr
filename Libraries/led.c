@@ -5,7 +5,7 @@
 
 /* DEFINES & MACROS **********************************************************/
 
-#define LED_RED_PORT       	PORTG		// port of red led is PORTG		
+#define LED_RED_PORT       	PORTF		// port of red led is PORTF		
 #define LED_RED_PIN         	1		// red led is at pin1
 
 
